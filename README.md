@@ -1,7 +1,7 @@
 # GeoNet
 [GeoNet: Geometric Neural Network for Joint Depth and Surface Normal Estimation](http://openaccess.thecvf.com/content_cvpr_2018/papers/Qi_GeoNet_Geometric_Neural_CVPR_2018_paper.pdf)
 
-GeoNet++: Interative Geometric Neural network with Edge-aware Refinement Joint Depth and Surface Normal Estimation
+GeoNet++: Interative Geometric Neural network with Edge-aware Refinement Joint Depth and Surface Normal Estimation. (In preparation)
 
 ## Setup
 
@@ -22,5 +22,5 @@ Tested in Ubuntu + Intel i7 CPU + Nvidia Titan X (Pascal) with Cuda (>=8.0) and 
 
 5. Evaluation: cd eval & run 'test_depth.m' for depth evaluation and run 'test_norm.py' for normal evaluation.
 
-###Training
+### Training
 Training code already included. Detailed data preparation & running procedure will be updated soon.
