@@ -13,7 +13,14 @@ Tested in Ubuntu + Intel i7 CPU + Nvidia Titan X (Pascal) with Cuda (>=8.0) and 
 
 ### Inference
 1. Download pretrained model data, initialization model, and trained model from "https://drive.google.com/open?id=1o2t8735acVf2cLSCS6URkNViOB7mdb-Q"
+
 2. tar xvzf GeoNet.tar.gz
+
 3. Merge files into the Repo according to the file name.
+
 4. Run 'code.py'
+
 5. Evaluation: cd eval & run 'test_depth.m' for depth evaluation and run 'test_norm.py' for normal evaluation.
+
+###Training
+Training code already included. Detailed data preparation & running procedure will be updated soon.
