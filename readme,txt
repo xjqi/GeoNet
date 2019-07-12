@@ -1,0 +1,49 @@
+
+Errors computed over the entire test set 
+------------------------------------------
+Mean Absolute Relative Error: 0.149413
+Root Mean Squared Error: 0.615196
+Root Mean Squared log scale Error: 0.207534
+Mean Log10 Error: 0.065263
+delta smaller than 1.25: 0.781194
+delta smaller than 1.25^2: 0.955575
+delta smaller than 1.25^3: 0.989697
+ 
+Errors computed over the entire test set 
+------------------------------------------
+Mean Absolute Relative Error: 0.146067
+Root Mean Squared Error: 0.605366
+Root Mean Squared log scale Error: 0.203458
+Mean Log10 Error: 0.063927
+delta smaller than 1.25: 0.788799
+delta smaller than 1.25^2: 0.958180
+delta smaller than 1.25^3: 0.990574
+
+nums_e =
+
+   18.5779   11.2603   26.6613   49.9662   72.7498   80.4287
+
+---------------------------------------
+Mean: 18.5779
+Median: 11.2603
+RMSE: 26.6613
+11.25: 49.9662
+22.5: 72.7498
+30: 80.4287
+45: 89.5146
+---------------------------------------
+
+
+nums_e =
+
+   18.8390   11.6136   26.7349   48.8300   71.8425   79.8023
+
+---------------------------------------
+Mean: 18.839
+Median: 11.6136
+RMSE: 26.7349
+11.25: 48.83
+22.5: 71.8425
+30: 79.8023
+45: 89.3871
+---------------------------------------
