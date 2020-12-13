@@ -24,6 +24,7 @@ Tested in Ubuntu + Intel i7 CPU + Nvidia Titan X (Pascal) with Cuda (>=8.0) and 
 
 ### Training
 Prepared training data download: 
+
 https://hkuhk-my.sharepoint.com/personal/xjqi_hku_hk/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fxjqi%5Fhku%5Fhk%2FDocuments%2FGeoNet%2Ddepth%2Dnormal%2Ddata&originalPath=aHR0cHM6Ly9oa3Voay1teS5zaGFyZXBvaW50LmNvbS86ZjovZy9wZXJzb25hbC94anFpX2hrdV9oay9FazBWbS0tNW9pMUdzc2lvTEU1TGpPMEJ5TFRLcFdBRzAwellZVUNlaXlkUjdnP3J0aW1lPVVSZ3RVVEtmMkVn)
 
 Run 'code.py' in training mode.
